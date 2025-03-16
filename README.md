@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Bradley:
-👨‍💻 IT Technician Apprentice | Tech Enthusiast<br><br>Hi there! I'm an IT Technician Apprentice passionate about all things tech. Currently,</br> I’m working on Windows Server architecture with a focus on tools like Microsoft 365, Intune, and Active Directory.</br> I’m also sharpening my skills in cross-platform operating systems by scripting to automate and streamline workflows.<br><br>🎓 Education:<br><br>BCS Computer Networking<br>CompTIA Network+ Certified<br>
+👨‍💻 IT Technician Apprentice | Tech Enthusiast<br><br>Hi there! I'm an IT Technician Apprentice passionate about all things tech. Currently,</br> I’m working on Windows Server architecture with a focus on tools like Microsoft 365, Intune, and Active Directory.</br> I’m also sharpening my skills in cross-platform operating systems by scripting to automate and streamline workflows.<br><br>🎓 Education:<br><br>BCS Computer Networking Managment - Apprentice<br>CompTIA Network+ Studies<br>
 
 
 ## 🌍 Socials:
